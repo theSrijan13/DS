@@ -32,7 +32,8 @@
 - Unique Morse Code Words
 -  Removing Stars From a String
 - 316. Remove Duplicate Letters 🔥
-- Longest Common Prefix 🔥 
+- Longest Common Prefix 🔥
+- Backspace String Search
 ## Singly Linked List
 - Reverse Linked List
 - Middle of the Linked List
